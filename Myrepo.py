@@ -1,1 +1,1 @@
-print "Myrepo"
+print "Protek"
